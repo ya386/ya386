@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashasvi Singh</h1>
 <h3 align="center">Passionate Java Developer specializing in Data Structures and Algorithms, focused on building scalable and efficient real-world applications. Actively working on innovative solutions like Night Guard AI, with a strong drive toward solving complex problems and creating impactful technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ya386&label=Profile%20views&color=0e75b6&style=flat" alt="ya386" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ya386" alt="ya386" /></a> </p>
 
