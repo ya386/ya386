@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="180"/>
 
-# 🌟 Hey there, I'm Yashasvi Singh
+# 🌟 Hey there,I'm Yashasvi Singh
 
 ### 🧠 Creative Developer | Tech Enthusiast | Future Innovator
 
